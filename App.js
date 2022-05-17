@@ -67,7 +67,7 @@ export default function App() {
         <Text style={styles.historyText}>{lastNumber}</Text>
         <Text style={styles.resultText}>{currentNumber}</Text>
       <View>
-
+      </View>
       {/* Area onde os botões são exibidos*/}
       <View style={styles.buttons}>
 
@@ -82,6 +82,7 @@ export default function App() {
           </TouchableOpacity>
         )}
       </View>
+    </View>
     </View>
   );
 }
