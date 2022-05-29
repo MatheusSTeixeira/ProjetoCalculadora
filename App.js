@@ -131,3 +131,5 @@ const styles = StyleSheet.create({
     fontSize: 20,
   } 
 });
+
+//Preparado para versao 1.0
